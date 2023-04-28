@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **Reactjs and React Native**
+- 🌱 I’m currently learning **Reactjs and Nextjs**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **Nextjs**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, and Reactjs**
+- 💬 Ask me about **HTML, CSS, JavaScript, Reactjs, and Nextjs**
 
 - 📫 How to reach me **karishmatejwani9@gmail.com**
 
