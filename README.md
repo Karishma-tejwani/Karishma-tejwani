@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karishma Kumari</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Reactjs Projects**
 
 - 🌱 I’m currently learning **Reactjs and Nextjs**
 
